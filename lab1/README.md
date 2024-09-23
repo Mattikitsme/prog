@@ -3,7 +3,7 @@
 Вывести частное наименьшей суммы цифр параметров a, b и второго параметра.
 
 Блок-схема:\
-
+![{FD33103B-7E3E-44CD-A7F7-2D5F946753C4}](https://github.com/user-attachments/assets/d044025b-23cd-4da7-9857-1be273e98aad)
 
 ```c
 #include <stdio.h>
