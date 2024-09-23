@@ -44,4 +44,4 @@ int main() {
 Проверка работы:\
 ![Изображение](https://github.com/user-attachments/assets/cf10a74e-6d4b-44b4-8675-0c3522b81d31)
 
-[Сайт для создания блок-схем](https://programforyou.ru/block-diagram-redactor "Онлайн редактор блок-схем")
+[Онлайн редактор блок-схем](https://programforyou.ru/block-diagram-redactor)
