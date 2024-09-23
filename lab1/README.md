@@ -1,4 +1,10 @@
 # Отчет
+Задание:\
+Вывести частное наименьшей суммы цифр параметров a, b и второго параметра.
+
+Блок-схема:\
+
+
 ```c
 #include <stdio.h>
 
@@ -36,4 +42,6 @@ int main() {
 ```
 
 Проверка работы:\
-![изображение](https://github.com/user-attachments/assets/cf10a74e-6d4b-44b4-8675-0c3522b81d31)
+![Изображение](https://github.com/user-attachments/assets/cf10a74e-6d4b-44b4-8675-0c3522b81d31)
+
+![Сайт для создания блок-схем](https://programforyou.ru/block-diagram-redactor)
